@@ -12,4 +12,4 @@ Prototype for app used to conduct research related to Human Swarm Intelligence
 
 ![Swarm Interface Demo](https://media.giphy.com/media/Rk1zBGIXaq5sYn2Clx/giphy.gif)
 
-[Here's my GitHub](https://github.com/StphnRssll)
+[You can find more at my GitHub: github.com/StphnRssll](https://github.com/StphnRssll)
