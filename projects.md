@@ -4,12 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
-[2019 CUhackit Project: CUparkit](https://devpost.com/software/cuparkit)
 
-![CUParkit_Image](https://i.ibb.co/jfWDgSK/2parkitscreenshots.png) 
 
-Prototype for app used to conduct research related to Human Swarm Intelligence
+### Human Swarm Interface 
+A prototype for an app used to conduct research related to Human Swarm Intelligence [(meant to recreate this application's functionality)](https://i.imgur.com/4oXwM82.gif?noredirect)
+Built with JavaScript, HTML, CSS
+Created in November 2019
 
 ![Swarm Interface Demo](https://media.giphy.com/media/Rk1zBGIXaq5sYn2Clx/giphy.gif)
 
-[You can find more at my GitHub: github.com/StphnRssll](https://github.com/StphnRssll)
+### PhraseFinder
+A website that lets users search for words across several YouTube videos via video caption tracks
+Built with Python (Django backend), JavaScript (React frontend), HTML, CSS
+Created in August 2019 at TraceCamp with assistance from instructors
+
+![Phrase_Finder_Image](https://camo.githubusercontent.com/92342db99dbaeb0e6a8d00de7a3615eea77d5ea9/68747470733a2f2f692e6962622e636f2f7274717a6871702f686f6d65706167652e706e67)
+
+### CUparkit - MLH Hackathon Award Winner
+A prototype for a website that helps users find empty parking lots based on historical traffic data
+Created in February 2019 at CUHackit: [Devpost Submission](https://devpost.com/software/cuparkit)
+
+![CUParkit_Image](https://i.ibb.co/jfWDgSK/2parkitscreenshots.png) 
+
+### [You can find more at my GitHub: github.com/StphnRssll](https://github.com/StphnRssll)
