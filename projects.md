@@ -11,7 +11,7 @@ A prototype for an app used to conduct research related to Human Swarm Intellige
 
 Built with JavaScript, HTML, CSS
 
-Created in November 2019
+Created in October 2019
 
 ![Swarm Interface Demo](https://media.giphy.com/media/Rk1zBGIXaq5sYn2Clx/giphy.gif)
 
