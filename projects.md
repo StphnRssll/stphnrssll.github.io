@@ -6,9 +6,7 @@ permalink: /projects/
 
 [2019 CUhackit Project: CUparkit](https://devpost.com/software/cuparkit)
 
-![CUParkit_Image_1](https://i.ibb.co/xDtxqpK/Image-2.jpg =100x20) 
-
-![CUParkit_Image_2](https://i.ibb.co/nzG9Qck/Image-3.jpg)
+![CUParkit_Image](https://i.ibb.co/jfWDgSK/2parkitscreenshots.png) 
 
 Prototype for app used to conduct research related to Human Swarm Intelligence
 
