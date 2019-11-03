@@ -10,6 +10,6 @@ permalink: /projects/
 
 Prototype for app used to conduct research related to Human Swarm Intelligence
 
-![Swarm Interface Demo](https://media.giphy.com/media/Rk1zBGIXaq5sYn2Clx/giphy.gif =100x)
+![Swarm Interface Demo](https://media.giphy.com/media/Rk1zBGIXaq5sYn2Clx/giphy.gif)
 
 [Here's my GitHub](https://github.com/StphnRssll)
