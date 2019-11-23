@@ -19,6 +19,7 @@ Created in October 2019
 
 ### PhraseFinder
 [GitHub Link](https://github.com/StphnRssll/PhraseFinder/)
+
 A website that lets users search for words across several YouTube videos via video caption tracks
 
 Built with Python (Django backend), JavaScript (React frontend), HTML, CSS
@@ -29,6 +30,7 @@ Created in August 2019 at TraceCamp with assistance from instructors
 
 ### CUparkit - MLH Hackathon Award Winner
 [GitHub Link](https://github.com/CUparkit)
+
 A prototype for a website that helps users find empty parking lots based on historical traffic data
 
 Created with a team of 4 in February 2019 at CUHackit: [Devpost Submission](https://devpost.com/software/cuparkit)
