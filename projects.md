@@ -9,6 +9,7 @@ permalink: /projects/
 
 ## Trace Research Group Website
 [Live Website Link](https://computing.clemson.edu/trace/)
+
 [GitHub Link](https://github.com/StphnRssll/trace-lab-website)
 
 The official website for TRACE Research group. I am responsible for designing the look and feel of the website by manipulating a Bootstrap template, interpreting feedback through an iterative team design process, and implementing the design in Bootstrap, JavaScript, HTML, CSS.
