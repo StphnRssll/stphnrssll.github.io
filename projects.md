@@ -38,11 +38,9 @@ A website that lets users search for words across several YouTube videos via vid
 
 Built with Python (Django backend), JavaScript (React frontend), HTML, CSS
 
+[<img src="https://camo.githubusercontent.com/92342db99dbaeb0e6a8d00de7a3615eea77d5ea9/68747470733a2f2f692e6962622e636f2f7274717a6871702f686f6d65706167652e706e67">](https://phrasefinder.net/)
 Created in August 2019 at TraceCamp with assistance from instructors
 
-![Phrase_Finder_Image](https://camo.githubusercontent.com/92342db99dbaeb0e6a8d00de7a3615eea77d5ea9/68747470733a2f2f692e6962622e636f2f7274717a6871702f686f6d65706167652e706e67)
-
-[<img src="https://camo.githubusercontent.com/92342db99dbaeb0e6a8d00de7a3615eea77d5ea9/68747470733a2f2f692e6962622e636f2f7274717a6871702f686f6d65706167652e706e67">](https://phrasefinder.net/)
 
 # CUparkit - MLH Hackathon Award Winner
 [GitHub Link](https://github.com/CUparkit)
