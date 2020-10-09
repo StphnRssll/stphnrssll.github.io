@@ -31,6 +31,8 @@ Created in October 2019
 ![Swarm Interface Demo](https://media.giphy.com/media/Rk1zBGIXaq5sYn2Clx/giphy.gif)
 
 ## PhraseFinder
+[Live Website Link](https://phrasefinder.net/)
+
 [GitHub Link](https://github.com/StphnRssll/PhraseFinder/)
 
 A website that lets users search for words across several YouTube videos via video caption tracks
