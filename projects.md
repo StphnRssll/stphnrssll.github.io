@@ -7,22 +7,18 @@ permalink: /projects/
 
 *Note*: This is not an extensive list and I am always adding to my collection of projects! For a more recent collection of my work, check [my GitHub: github.com/StphnRssll](https://github.com/StphnRssll)
 
-## Trace Research Group Website
+# Trace Research Group Website
 [Live Website Link](https://computing.clemson.edu/trace/)
-
-[<img src="https://i.ibb.co/yf6s9rX/trace-screenshot.png">](https://computing.clemson.edu/trace/)
-
 
 [GitHub Link](https://github.com/StphnRssll/trace-lab-website)
 
 The official website for TRACE Research group. I am responsible for designing the look and feel of the website by manipulating a Bootstrap template, interpreting feedback through an iterative team design process, and implementing the design in Bootstrap, JavaScript, HTML, CSS.
 
+[<img src="https://i.ibb.co/yf6s9rX/trace-screenshot.png">](https://computing.clemson.edu/trace/)
 Created in Fall 2020
 
-![Website Preview](https://i.ibb.co/yf6s9rX/trace-screenshot.png)
 
-
-## Human Swarm Interface Prototype
+# Human Swarm Interface Prototype
 [GitHub Link](https://github.com/StphnRssll/Swarm_Interface_Prototype)
 
 A prototype for an app used to conduct research related to Human Swarm Intelligence [(meant to recreate this application's functionality)](https://i.imgur.com/4oXwM82.gif?noredirect)
@@ -33,7 +29,7 @@ Created in October 2019
 
 ![Swarm Interface Demo](https://media.giphy.com/media/Rk1zBGIXaq5sYn2Clx/giphy.gif)
 
-## PhraseFinder
+# PhraseFinder
 [Live Website Link](https://phrasefinder.net/)
 
 [GitHub Link](https://github.com/StphnRssll/PhraseFinder/)
@@ -46,7 +42,7 @@ Created in August 2019 at TraceCamp with assistance from instructors
 
 ![Phrase_Finder_Image](https://camo.githubusercontent.com/92342db99dbaeb0e6a8d00de7a3615eea77d5ea9/68747470733a2f2f692e6962622e636f2f7274717a6871702f686f6d65706167652e706e67)
 
-## CUparkit - MLH Hackathon Award Winner
+# CUparkit - MLH Hackathon Award Winner
 [GitHub Link](https://github.com/CUparkit)
 
 A prototype for a website that helps users find empty parking lots based on historical traffic data
