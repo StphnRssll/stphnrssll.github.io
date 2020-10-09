@@ -4,7 +4,19 @@ title: Projects
 permalink: /projects/
 ---
 
-### *Note*: *This is not an extensive list and I am always adding to my collection of projects!* For a more recent collection of my work, check [my GitHub: github.com/StphnRssll](https://github.com/StphnRssll)
+
+### *Note*: This is not an extensive list and I am always adding to my collection of projects! For a more recent collection of my work, check [my GitHub: github.com/StphnRssll](https://github.com/StphnRssll)
+
+### Trace Research Group Website
+[Live Website Link](https://computing.clemson.edu/trace/)
+[GitHub Link](https://github.com/StphnRssll/trace-lab-website)
+
+The official website for TRACE Research group. I am responsible for designing the look and feel of the website by manipulating a Bootstrap template, interpreting feedback through an iterative team design process, and implementing the design in Bootstrap, JavaScript, HTML, CSS.
+
+Created in Fall 2020
+
+![Website Preview](https://i.ibb.co/yf6s9rX/trace-screenshot.png)
+
 
 ### Human Swarm Interface Prototype
 [GitHub Link](https://github.com/StphnRssll/Swarm_Interface_Prototype)
