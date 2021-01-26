@@ -12,8 +12,17 @@ permalink: /projects/
 The official website for TRACE Research group. I am responsible for designing the look and feel of the website by manipulating a Bootstrap template, interpreting feedback through an iterative team design process, and implementing the design in Bootstrap, JavaScript, HTML, CSS.
 
 [<img src="https://i.ibb.co/yf6s9rX/trace-screenshot.png">](https://computing.clemson.edu/trace/)
-*Created in Fall 2020*
+*Created in Fall 2020, still in development*
 
+## MyPlate App UX Case Study
+
+[GitHub Link](https://github.com/StphnRssll/MyPlate-UX-Redesign)
+
+A UX Case Study of the USDA's app, "Start Simple with MyPlate," which aims to educate users about USDA nutrition guidelines. Included are several reports focused on Task Analysis, Redesigns based on UX principles, and a User Feedback study. All of this is summarized best in the Final Presentation pdf. This project was completed for IE 4880 at Clemson University.
+
+
+<img src="https://raw.githubusercontent.com/StphnRssll/MyPlate-UX-Redesign/main/screenshots/4-Interface-Before-and-Afters.PNG">
+*Created in Spring 2020*
 
 ## Human Swarm Interface Prototype
 [GitHub Link](https://github.com/StphnRssll/Swarm_Interface_Prototype)
