@@ -18,7 +18,7 @@ The official website for TRACE Research group. I am responsible for designing th
 
 [GitHub Link](https://github.com/StphnRssll/MyPlate-UX-Redesign)
 
-A UX Case Study of the USDA's app, "Start Simple with MyPlate," which aims to educate users about USDA nutrition guidelines. Included are several reports focused on Task Analysis, Redesigns based on UX principles, and a User Feedback study. All of this is summarized best in the Final Presentation pdf. This project was completed for IE 4880 at Clemson University.
+A UX Case Study of the USDA's app, "Start Simple with MyPlate," which aims to educate users about USDA nutrition guidelines. Included are several reports focused on Task Analysis, Redesigns (made in Axure) based on UX principles, and a User Feedback study. All of this is summarized best in the Final Presentation pdf. This project was completed for IE 4880 at Clemson University.
 
 
 <img src="https://raw.githubusercontent.com/StphnRssll/MyPlate-UX-Redesign/main/screenshots/4-Interface-Before-and-Afters.PNG">
