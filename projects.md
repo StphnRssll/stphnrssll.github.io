@@ -10,15 +10,12 @@ permalink: /projects/
 ### *Winner of Best UI/UX Award at CUHackit 2021*
 [Devpost Link](https://devpost.com/software/call-of-nature)
 
-[GitHub Link](https://github.com/StphnRssll/trace-lab-website)
-
 Pandemic induced depression is at an all-time high. Call of the Wild seeks to use gamification principles to encourage users to participate in daily outdoor activities. The app accomplishes this by picking a location in a radius around the user as a goal to walk to. After reaching the target the daily streak increases by one, incentivizing daily activity.
 
 I collaboratively designed and developed the front-end with Figma and React Native (JavaScript), and led the development timeline & chose critical features for final product.
 
 
-[<img src="https://i.ibb.co/9TmYRG8/splash-streak-map.jpg">](https://computing.clemson.edu/trace/)
-*Created in Fall 2020, still in development*
+[<img src="https://i.ibb.co/9TmYRG8/splash-streak-map.jpg">](https://devpost.com/software/call-of-nature)
 
 
 ## Trace Research Group Website
